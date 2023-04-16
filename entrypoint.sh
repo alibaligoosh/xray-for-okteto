@@ -2,10 +2,10 @@
 
 # 定义 UUID 及伪装路径、哪吒面板参数，请自行修改. (注意:伪装路径以 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
 UUID='401983d7-0890-40f0-8aba-a47a8909ba86'
-VMESS_WSPATH='https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/vmess.txt'
+VMESS_WSPATH='/vmess'
 VLESS_WSPATH='/vless'
-TROJAN_WSPATH='https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/trojan.txt'
-SS_WSPATH='https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/ss.txt'
+TROJAN_WSPATH='trojan'
+SS_WSPATH='/ss'
 NEZHA_SERVER=''
 NEZHA_PORT=''
 NEZHA_KEY=''
